@@ -1,0 +1,300 @@
+ما اسمك؟ : Comment t'appellestu
+كم عمرك؟: Quel age as tu
+ما هو عملك؟ : Que faites vous dans la vie
+أين تسكن؟ : Ou habitestu
+كيف حالكم؟ : Comment allez vous
+من انتم؟ : Qui etes vous
+هل انت متزوج؟ : Es tu marié
+متى تعودون ؟: Quand reviendrez vous
+ما بك؟ : Qu'est ce que tu as
+ما رايك؟ : Quel est ton avis
+ما مشكلتك؟: Quel est ton problème
+فيم تفكر؟ : A quoi pensetu
+هل تتحدث الفرنسيه؟: Saistu parler le français/tu parles français
+كم الساعة؟ : Quelle heure est 'il
+هل انت متعب؟ : Es tu fatigué
+ما هو رقم هاتفك؟  : Quel est votre numéro de téléphone
+بصراحه،أنا لاأوافق  : sincerment je ne peux pas
+هذه وجهة نظري  : c' est mon point de vu
+هذا منطقي  : c' est logique
+أنتم موافقون  : vous etes d accord
+اعتقد انه غير ضروري  : je pense que ce n est pas necessaire
+أظن أنه فات الاوان : je pense que c' est tropp tard
+هذه هي الحقيقه: c' est la verite
+لا بد أن تستشير أخصئيا : tu dois consultez un spècialiste
+أنت طيب للغايه : tu es trés gentil
+أدعوكم إلى  : je vous invite  جو فو زان فيت
+لا أرى مانعا : je ne vois pas d'inconvenient
+لا أعتقد أن  : je ne crois pas
+بصراحة ، أنا لا أوافق  : sincerment je ne peux pas
+هذه وجهة نظري  : c'est mon point de vu
+أنا متأسف  : je suis desole
+هذا منطقي  : c'est logique
+فكروا جيدا  : reflchissez bien
+أنتم موافقون  : vous etes d'accord
+كن صريحا  : sois sincere
+أنتم على حق  : vous aves raison
+أنتم مخطئون  : vous vous trompez
+أشكركم على  : je vous remercie de
+أنا لا أتذكر  : je ne me rappelle pas
+أعتقد أنه غير ضروري  : je pense que ce nest pas necessaire
+هذا أحسن  : tant mieux
+أظن أنه فات الاوان : je pense que c'est tropp tard
+هذه هي الحقيقة: c'est la verite   
+أرجوكم أن تجيبوني  je vous pris de me repondre
+أنتم تبالغون  : vous exagerez
+فكروا قبل أن تفعلوا أي شيء : reflechissez avans de faire quoi que se sois
+تبدو لي قلقا: tu me parais inquiet
+لا تغضبوا : ne vous enervez pas
+اسمحوا لي أن أدخن : permettez moi de fumer
+الله يحفظكم  : que Dieu vous garde
+لا بد أن تستشير أخصائيا : tu dois consultez un spècialiste
+مشروعك مهم جدا : ton projet est tres interessant
+أنا أتفاهم معه جيدا : je m'entends bien evec lui
+أنت طيب للغاية : tu es trés gentil
+هل أتستطيع مساعدتك : puis je vous aider
+هذا حل محتمل : c' est une solution propable
+تبدو مبتهجا اليوم: tu as l'air gai aujourd'huit
+أجدك لطيفا : je te trouve sympatique
+أتمنى لكم النجاح : je vous souhaite de reussir
+لا أرى مانعا : je ne vois pas d'inconvenient
+
+
+ﺃﺗﻌﻠﻢ ﺍﻟﻔﺮﻧﺴﻴﺔ ﻭﻟﻜﻦ ﺃﻧﺎ ﻣﺒﺘﺪﺉ : J'apprends le français mais je suis débutant
+ﺃﻧﺎ ﺃﺗﻌﻠﻢ ﺍﻟﻔﺮﻧﺴﻴﺔ ﻣﻨﺬ ﺷﻬﺮﻳﻦ : J'apprends le français depuis deux mois
+ﺃﻧﺎ ﺃﺗﻜﻠﻢ ﻗﻠﻴﻼ ﺍﻟﻔﺮﻧﺴﻴﺔ : Je parle un peu le français
+ﻳﻤﻜﻨﻚ ﺗﺼﺤﻴﺢ ﻟﻲ، ﻣﻦ ﻓﻀﻠﻚ؟ : Peux tu me corriger, s'il te plaît?
+ﻫﻞ ﻳﻤﻜﻦ ﺍﻥ ﺗﻮﺿﺢ ﻟﻲ ﺑﺎﻟﻔﺮﻧﺴﻴﺔ؟ : Peux tu m'expliquer en français?
+ﻣﺎ ﻫﻲ ﺍﻟﻜﻠﻤﺔ ﺍﻟﻔﺮﻧﺴﻴﺔ ﻝ___؟ : Quel est le mot francais pour ________?
+ﺻﺤﻴﺢ؟ : C'est juste
+ﻣﺎﺫﺍ ﻳﻌﻨﻲ ؟ : Que veut dire
+ﻣﺎﺫﺍ ﻳﻌﻨﻲ؟ : Qu'Est ce que ça veut dire
+ﻫﻞ ﺃﻧﺎ ﺍﺧﻄﺄﺕ؟ : Je me trompe
+ﻫﻞ ﺃﻧﺎ ﻋﻠﻰ ﺧﻄﺄ؟ : Est ce que j'ai tort
+ﺃﻧﺎ ﺑﺤﺎﺟﺔ ﺇﻟﻰ ﻣﻤﺎﺭﺳﺔ ﺍﻟﻔﺮﻧﺴﻴﺔ : J'ai besoin de pratiquer le
+ﻫﻞ ﻟﺪﻳﻚ ﺍﻟﻮﻗﺖ ﻟﻠﺤﺪﻳﺚ ﻣﻌﻲ؟ : As tu le temps de parler avec moi?
+ﻫﻞ ﻳﻤﻜﻨﻚ ﻣﺴﺎﻋﺪﺗﻲ ﺗﻌﻠﻢ ﺍﻟﻠﻐﺔ ﺍﻟﻔﺮﻧﺴﻴﺔ؟ : Peux tu m'aider à apprendre le  français ?
+ﺗﻤﺎﻧﻊ ﺃﻥ ﻧﺘﺤﺪﺙ ﺑﺎﻟﻠﻐﺔ ﺍﻟﻔﺮﻧﺴﻴﺔ؟ : Ça te dérange si nous parlons en français
+ﻳﻤﻜﻨﻚ ﺍﻟﺘﺤﺪﺙ ﺑﺎﻟﻔﺮﻧﺴﻴﺔ ﻣﻌﻰ ﻣﻦ ﻓﻀﻠﻚ؟ ﺍﻧﻪ ﻳﺴﺎﻋﺪﻧﻲ ﻋﻠﻰ ﺍﻟﺘﻌﻠﻢ : Peux tu me parler en français s'il te plaît? Ça m'aide à apprendre
+
+ﺃﺟﺪ ﺻﻌﻮﺑﺔ ﻓﻲ ﺍﻟﻨﻄﻖ / ﺍﻟﻘﺮﺍﺀﺓ / ﺍﻟﻜﺘﺎﺑﺔ / ﺍﻻﺳﺘﻤﺎﻉ / ﺍﻟﻨﻄﻖ : J'ai du mal avec l'orthographe /la lecture / l'écriture / la compréhension orale / la prononciation
+ﻫﻞ ﺃﻧﺎ ﻋﻠﻰ ﺣﻖ؟ : Est ce que j'ai raison?
+ﻫﻞ ﺗﻔﻬﻤﻨﻲ؟  : Est ce que tu me comprends
+ﻻﺃﻓﻬﻢ   Je ne comprends pas : ﺃﺭﻳﺪ ﺗﺤﺴﻴﻦ ﻟﻐﺘﻲ ﺍﻟﻔﺮﻧﺴﻴﺔ
+Je veux améliorer mon niveau de français : ﻳﻤﻜﻨﻚ ﺗﻜﺮﺍﺭ ﻫﺬﺍ ﻣﻦ ﻓﻀﻠﻚ؟
+Pouvezvous répéter:  s'il vous plaît?
+ﻟﻢ ﺃﻓﻬﻢ   Je n'ai pas compris
+ﻟﻢ ﺍﺳﻤﻊ ﻫﺬﺍ ﺃﺑﺪﺍ  Je n'ai jamais entendu ça
+ﻣﺎﺫﺍ ﺗﻘﺼﺪ ﺏ  ___ ؟ : Qu'Est ce que tu veux dire par?___
+ﺃﻧﺎ ﻻ ﺃﻋﺮﻑ ﻛﻴﻒ ﺃﻗﻮﻝ ﺑﺎﻟﻠﻐﺔ ﺍﻟﻔﺮﻧﺴﻴﺔ : Je ne sais pas comment le dire en Français
+ﻋﻔﻮﺍ، ﻣﺎﺫﺍ ﺗﻘﻮﻝ؟ : Pardon, qu'Est ce que tu as dit ?
+
+
+
+
+
+
+Je te /vous remercie beaucoup  : اشكرك كثيرا
+Je te/ vous remercie très sincèrement  : اشكرك بصدق
+Je te /vous remercie infiniment  : اشكرك بلا حدود
+Je te/vous remercie de tout mon  : coeur اشكرك من اعماق قلبي
+Merci beaucoup Madame /Monsieur  : شكرا سيدتي/ سيدي
+Oh, merci!  Tu es vraiment très gentil(le ) :  اوه ، شكرا ! هذا لطف منك(ي) حقا
+Merci mille fois :  شكرا الف مرة
+Un grand merci :  شكر كبير
+Je ne sais pas vraiment  comment te /remercier  : لا اعرف حقا  كيف اشكرك
+Avec plaisir     :      بكل سرور
+Pourquoi pas     :   لما لا
+C'est bonne idée    :  إنها فكرة جميلة
+Ça ne me convient pas  :    هذا لم يقنعني
+C'est impossible     هذا لا يمكن
+C'est incroyable  :    هذا لا يطاق
+C'est interdit     :   هذا ممنوع
+C'est difficile   :    هذا صعب
+C'est facile     هذا سهل
+C'est fatiguant   :   هدا متعب
+C'est inconfortable  :    هذا غير مريح
+C'est mal fait   :   هدا سيء
+Ça m'énerve   :   هذا يغضبني
+je vous en pris :  ﺃﺭﺟﻮﻛﻢ
+il fait froid :  ﺍﻟﺠﻮ ﺑﺎﺭﺩ
+il fait chaud  : ﺍﻟﺠﻮ ﺣﺎﺭ
+il fait beau  : ﺍﻟﺠﻮ ﺟﻤﻴﻞ
+un homme  : ﺭﺟﻞ
+une femme :  ﺍﻣﺮﺃﺓ
+un garçon :  ﻭﻟﺪ
+une fille :  ﻓﺘﺎﺓ
+je suie désole :  ﺍﻧﺎ ﺍﺳﻒ
+excusezmoi :  ﺍﺳﻤﺤﻠﻲ
+je vais male :  ﻟﺴﺖ ﺑﺨﻴﺮ
+bonne année  : ﺳﻨﺔ ﺳﻌﻴﺪﺓ
+bon anniversaire :  ﻣﻴﻼ‌ﺩ ﺳﻌﻴﺪ
+joyeux anniversaire  : ﻋﻴﺪﻣﻴﻼ‌ﺩ ﺳﻌﻴﺪ
+tu es gentille :  ﺍﻧﺖ ﻟﻄﻴﻔﺔ
+que Dieu vous garde :  ﺍﻟﻠﻪ ﻳﺤﻔﻈﻜﻢ
+tu dois consultez un spécialiste  : ﻻ‌ ﺑﺪ ﺃﻥ ﺗﺴﺘﺸﻴﺮ ﺃﺧﺼﺎﺋﻴﺎ
+je n ai rien fais  : ﻟﻢ ﺃﻓﻌﻞ ﺷﻴﺌﺎ
+ce que tu dis est il pas logique :  ﻣﺎ ﺗﻘﻮﻟﻪ ﻟﻴﺲ ﻣﻨﻄﻘﻴﺎ
+ton projet est très intéressant :  ﻣﺸﺮﻭﻋﻚ ﻣﻬﻢ ﺟﺪﺍ
+je m’entends bien avec lui  : ﺃﻧﺎ ﺃﺳﻤﻊ ﻟﻪ ﺃﻧﺎ ﺃﺗﻔﺎﻫﻢ ﻣﻌﻪ ﺟﻴﺪﺍ
+ﻫﺬﻩ ﻋﺒﺎﺭﺓ ﺗﻌﻨﻲ ﺃﻧﻚ ﻣﺘﺄﻗﻠﻢ ﻣﻊ ﺷﺨﺺ ﻣﺎ
+écouter  :  ﺍﺳﻤﻊ
+il faut que tu me comprennes  :  ﻻ‌ ﺑﺪ ﺃﻥ ﺗﻔﻬﻤﻨﻲ
+sois raisonnable  :  ﻛﻦ ﻋﺎﻗﻼ‌
+ravi de faire votre connaissance  :  ﺃﻧﺎ ﺳﻌﻴﺪ ﺑﻤﻌﺮﻓﺘﻜﻢ
+je ne sais pas  ﺃﻧﺎ ﻻ‌ ﺃﻋﺮﻑ
+vous avez raison  :  ﺃﻧﺘﻢ ﻋﻠﻰ ﺣﻖ
+vous vous trompez :   ﺃﻧﺘﻢ ﻣﺨﻄﺌﻮﻥ
+je vous remercie de  : ﺃﺷﻜﺮﻛﻢ ﻋﻠﻰ
+je ne me rappelle pas  :  ﺃﻧﺎ ﻻ‌ ﺃﺗﺬﻛﺮ
+je pense que ce n’est pas nécessaire  :  ﺃﻋﺘﻘﺪ ﺃﻧﻪ ﻏﻴﺮ ﺿﺮﻭﺭﻱ
+tant mieux  :  ﻫﺬﺍ ﺃﺣﺴﻦ
+tous va très bien  :  ﻛﻞ ﺷﻲﺀ ﻋﻠﻰ ﺃﺣﺴﻦ ﻣﺎ ﻳﺮﺍﻡ
+je pense que c’est trop tard  :  ﺃﻇﻦ ﺃﻧﻪ ﻓﺎﺕ ﺍﻻ‌ﻭﺍﻥ
+c’est la vérité  :  ﻫﺬﻩ ﻫﻲ ﺍﻟﺤﻘﻴﻘﺔ
+que dois je comprendre de ça :  ﻣﺎﺫﺍ ﺃﻓﻬﻢ ﻣﻦ ﻫﺬﺍ؟
+ce que tu dis est important  : ﻣﺎ ﺗﻘﻮﻟﻪ ﻣﻬﻢ
+je vous pris de me répondre  :  ﺃﺭﺟﻮﻛﻢ ﺃﻥ ﺗﺠﻴﺒﻮﻧﻲ
+vous exagérez  ﺃﻧﺘﻢ ﺗﺒﺎﻟﻐﻮﻥ
+merci beaucoup  :  ﺷﻜﺮﺍ ﺟﺰﻳﻼ‌
+c’est logique :  ﻫﺬﺍ ﻣﻨﻄﻘﻲ
+je te conseille mon ami  :  ﺃﻧﺼﺤﻚ ﻳﺎ ﺻﺪﻳﻘﻲ
+refleurissez bien   : ﻓﻜﺮﻭﺍ ﺟﻴﺪﺍ
+vous étés d’accord :   ﺃﻧﺘﻢ ﻣﻮﺍﻓﻘﻮﻥ
+sois sincère  : ﻛﻦ ﺻﺮﻳﺤﺎ
+je vous demande pardon   : ﺃﻃﻠﺐ ﻣﻨﻜﻢ ﺍﻟﻌﻔﻮ
+je ne vous comprends pas  :  ﺃﻧﺎ ﻻ‌ ﺃﻓﻬﻤﻜﻢ
+expliquez moi  :  ﺍﺷﺮﺣوا لي
+faites comme chez vous  :  اعتبر نفسك في منزلك 
+bonne fête                      :             عيد سعيد 
+joyeuse anniversaire            :     عيد ميلاد سعيد 
+félicitations                   :                 مبارك 
+meilleurs voeux                 :         اجمل التمنيات 
+je vous souhaite la réussite dans vos affaires :  اتمنى لك النجاح في اعمالك 
+bonnes vacances           :    اتمنى لك إجازة سعيدة 
+quel dommage              :                  يا للاسف 
+je ne suis pas sûr        :                 لست متأكدا 
+je ne crois pas           :                  لا أعتقد ذلك 
+ne soyez pas nerveux      :             لا تكن عصبيا 
+c'est incroyable          :                هذا لا يصدق 
+quelle surprise           :               يالها من مفاجأة 
+tu plaisantes             :                لا بد انك تمزح 
+je pense que tu as tort   :         اعتقد انك مخطئ 
+
+
+أنتم موافقون   : vous êtes d accord
+أنا لا أعرف   : je ne sais pasا
+كل شيء على أحسن ما يرام  : tous va tres bien
+أظن أنه فات الاوان  : je pense que c' est trop tard
+هذه هي الحقيقه : c' est la vérité
+فكروا قبل أن تفعلوا أي شيء  : réfléchissez avans de faire quoi que se soisا
+لا بد أن تستشير أخصائيا  : tu dois consultez un spécialiste
+لم أفعل شيئا : je n ai rien fais
+هذا شيء طبيعي  : c'est normale
+هذا حل محتمل  : c' est une solution probable
+تبدو مبتهجا اليوم : tu as l'air gai aujourd’hui
+أجدك لطيفا  : je te trouve sympathique
+علمت أن  : j' ai appris que
+أتمنى لكم النجاح  : je vous souhaite de réussir
+أدعوكم إلى   : je vous invite
+لا أرى مانعا  : je ne vois pas d'inconvénient
+في رأيي   : a mon avis
+لا أعتقدأن   : je ne crois pas
+بصراحه،أنا لاأوافق   : sincèrement je ne peux pas
+هذه وجهة نظري   : C'est mon point de vu
+أرجوكم   : je vous en pris
+أنا متأسف   : je suis désolé
+هذا منطقي   : C'est logique
+أنصحك يا صديقي  : je te conseille mon ami
+فكروا جيدا   : réfléchissez bien
+أنتم موافقون  : vous êtes d'accord
+كن صريحا   : sois sincère
+أطلب منكم العفو   : je vous demande pardon
+أنا لا أفهمكم   : je ne vous comprends pas
+اشرحوا لي   : expliquez moi
+أنا لا أعرف   : je ne sais pas
+انتم على حق  :  vous aves raison
+انتم مخطئون  :  vous vous trompez
+اشكركم على   : je vous remercie de
+انا لا اتذكر   je ne me rappelle pas
+اعتقد انه غير ضروري   : je pense que ce n’est pas nécessaire
+هذا احسن   : tant mieux
+كل شيء على أحسن ما يرام  : tous va très bien
+أظن أنه فات الاوان  : je pense que c'est trop tard
+هذه هي الحقيقه : c'est la vérité
+ماذا أفهم من هذا؟  : que dois je comprendre de ça
+ما تقوله مهم  : ce que tu dis est important
+أرجوكم أن تجيبوني  : je vous pris de me répondre
+أنتم تبالغون   : vous exagérez
+شكرا جزيلا  : merci beaucoup
+فكروا قبل أن تفعلوا أي شيء  : réfléchissez avans de faire quoi que se sois
+تبدو ل قلقا : tu me parais inquiet
+لا تغضبوا  : ne vous énervez pas
+أنت غير عادل  : tu est injuste
+اسمحوا لي أن أدخن  : permettez de fumer
+بالعكس   : au contraire
+الله يحفظكم   : que dieu vous garde
+لا بد أن تستشير أخصئيا  : tu dois consultez un spécialiste
+لم أفعل شيئا  : J'ai rien fais
+ما تقوله ليس منطقيا  : ce que tu dis est illogique
+مشروعك مهم جدا  : ton projet est très intéressant
+أنا أتفاهم معه جيدا  : je m'entends bien avec lui
+لا بد أن تفهمني   : il faut que tu me comprennes
+كن عاقلا  : sois raisonnable
+أنا سعيد بمعرفتكم   : enchanté de faire votre connaissance
+أنت طيب للغايه  : tu es très gentil
+هل أ تستطيع مساعدتك  : puis je vous aider
+أقدم إليكم أحر التعازي  : je vous présente toutes mes condoléances
+هذا رائع  : c'est formidable
+
+هذا شيء طبيعي : c'est normal
+نلاحظ أن : On remarque que
+أفترض ان : Je suppose que
+على مستوى : Au niveau
+نستنتج أن : En déduire que
+من خلال هذا : À travers ça
+يمكن تصنيف : On peut classer
+للبحث عن : Pour chercher
+إتضح أن : Il s'avère que
+للكشف عن : Pour détecter
+لهذا الغرض : À cet fin
+للتأكد من : pour vérifier
+هناك تطابق : Il y a une correspondance
+ هذا يسمح : Celà permet
+إعتمادا على ماذا : Basé sur quoi
+بصيغة أخرى : En d'autre terme
+في هذا السياق : Dans ce contexte
+هذا يعتمد على : Ça depend du
+مهما كان : Quoi que ce soit
+
+relève du texte:   استخرج من النص
+complète le tableau:  أكمل الجدول
+De quoi parle ce texte:  عما يتحدث النص
+Mets en ordre les mots : رتب الكلمات
+Souligne les mots : سطر على الكلمات
+Encadre les mots : ضع الكلمات في اطار
+Entoure les mots :  ضع دائرة على الكلمات
+Donne le contraire des mots suivants : اعطي ضد الكلمات التالية
+Donne le sens des mots suivants : اعطي شرح الكلمات التالية
+Mets vrai ou faux : ضع صحيح او خطأ
+Conjugue le verbe : صرف الفعل
+je t'admire beaucoup : أنا معجب بك كثيرا
+j'adore cette ville : أنا أحب هذه المدينة
+recette de cuisine : وصفة الطبخ
+recette de gâteau : وصفة كعكة
+recette de pizza : وصفة البيتزا
+j'adore pizza et gâteau au chocolat : أنا أحب البيتزا وكعكة الشوكولاته
+je suis malade : أنا مريض
+je suis marié : أنا متزوج
+je suis désolé : أنا آسف
+je suis désolé pour le dérangement : اسف على الازعاج
+je suis désolé pour la réponse tardive : أنا آسف على الاجابة المتأخرة
+je suis d'accord avec toi : أنا أتفق معك
+je suis moche : أنا قبيحة المظهر
+je suis belle : أنا جميلة
+je suis beau : أنا جميل
+je suis sentimental : أنا عاطفي
+il est mort : هو مات
+il est beau : هو جميل
+Il a une moustache et une barbe : لديه شارب ولحية
+il a une voiture : لديه سيارة
