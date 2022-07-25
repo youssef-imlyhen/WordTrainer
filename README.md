@@ -5,7 +5,7 @@
 <h3 align="center">WordTrainer </h3>
 
   <p align="center">
-A full-stack JavaScript web app. It is built to help me and my siblings learn languages by learning from the most used words and phrases from a language.
+A full-stack JavaScript web app. Built to help me and my siblings learn languages by learning from the most used words and phrases from a language.
     <br />
     <br />
     <br />
