@@ -76,12 +76,7 @@ Implemented that with a simple Express REST API with a function that parses the 
 ```terminal
  node index.js
 ```
-4. Open the front-end side of the project
-```terminal
- cd client
-
-```
-5. Open  `index.html` using live-server extension or directly on your browser at .
+4. View the web application at http://127.0.0.1:8080/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -6,6 +6,7 @@ var cors = require('cors')
   // the express stuff now 
   const app = express();
   app.use(cors())
+  app.use(express.static('client')); // Serve static files from the 'client' subdirectory
   app.get('/words/fr_en/', (req, res) => {
     // let wordsNum = req.params.amountOfWords;
     // wordsNum ? wordsNum : 20;
